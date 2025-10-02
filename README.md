@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahjalal Afnan Turin</h1>
 <h3 align="center">💻 CS student | 🚀 Full-stack learner | 🤖 Exploring AI & Data Science | 🎮 Passionate about projects in tech & innovation | ☕ Curious coder</h3>
-<img align="right" alt="Coding" width="400" src=”https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndic3Zua2d3dHhkc3VseDIwNnhyOHRla3dhYzlvaHVkOHdmZGZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif”>
+<img align="right" alt="Coding" width="400" src=”https://gifdb.com/images/thumbnail/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanturin16&label=Profile%20views&color=0e75b6&style=flat" alt="afnanturin16" /> </p>
 
