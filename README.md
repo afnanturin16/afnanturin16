@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahjalal Afnan Turin</h1>
-<h3 align="center">💻 CS student | 🚀 Full-stack learner | 🤖 Exploring AI & Data Science | 🎮 Passionate about projects in tech & innovation | ☕ Curious coder</h3>
+<h3 align="center">💻 CS Graduate | 🚀 Full-stack learner | 🤖 Exploring AI & Data Science | 🎮 Passionate about projects in tech & innovation | ☕ Curious coder</h3>
 <img align="right" alt="Coding" width="500" src= 'https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanturin16&label=Profile%20views&color=0e75b6&style=flat" alt="afnanturin16" /> </p>
